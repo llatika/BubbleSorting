@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class TwoDimensionalTable extends Table {
+public class TwoDimensionalArray extends Table {
 
     static Integer[][] table;
 

@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -10,8 +9,8 @@ public class Main {
         Scanner input = new Scanner(System.in);
         int dimension = input.nextInt();
         if (dimension == 1)
-            OneDimensionTable.createTable();
+            OneDimensionalArray.createTable();
         else
-            TwoDimensionalTable.createTable();
+            TwoDimensionalArray.createTable();
     }
 }

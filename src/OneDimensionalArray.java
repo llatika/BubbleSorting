@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class OneDimensionTable extends Table {
+public class OneDimensionalArray extends Table {
 
     static int[] table;
 
